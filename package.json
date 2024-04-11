@@ -1,0 +1,12 @@
+{
+  "name": "socialmediabackend",
+  "version": "1.0.0",
+  "description": "Backend of a hypothetical social media app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "harsh",
+  "license": "ISC"
+}
