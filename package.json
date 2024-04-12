@@ -8,7 +8,14 @@
     "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["social media", "backend", "node"],
+  "keywords": [
+    "social media",
+    "backend",
+    "node"
+  ],
   "author": "harsh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
